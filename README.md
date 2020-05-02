@@ -1,1 +1,1 @@
-# name_selector_randomized
+# Fun little project to select pig latin names at random
